@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-yotube-video/static/css/main.ef31b886.chunk.css",
+    "main.js": "/react-yotube-video/static/js/main.a731588a.chunk.js",
+    "main.js.map": "/react-yotube-video/static/js/main.a731588a.chunk.js.map",
+    "runtime-main.js": "/react-yotube-video/static/js/runtime-main.68a29a14.js",
+    "runtime-main.js.map": "/react-yotube-video/static/js/runtime-main.68a29a14.js.map",
+    "static/js/2.7774f95d.chunk.js": "/react-yotube-video/static/js/2.7774f95d.chunk.js",
+    "static/js/2.7774f95d.chunk.js.map": "/react-yotube-video/static/js/2.7774f95d.chunk.js.map",
+    "index.html": "/react-yotube-video/index.html",
+    "static/css/main.ef31b886.chunk.css.map": "/react-yotube-video/static/css/main.ef31b886.chunk.css.map",
+    "static/js/2.7774f95d.chunk.js.LICENSE.txt": "/react-yotube-video/static/js/2.7774f95d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68a29a14.js",
+    "static/js/2.7774f95d.chunk.js",
+    "static/css/main.ef31b886.chunk.css",
+    "static/js/main.a731588a.chunk.js"
+  ]
+}
