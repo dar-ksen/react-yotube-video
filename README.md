@@ -1,5 +1,6 @@
 # Project for training with youtube Api
-The project works with React classes. Uses axios libraries to connect to youtube api
+The project works with React classes. Uses axios libraries to connect to youtube api.
+You can watch this project on <a href="https://dar-ksen.github.io/react-yotube-video/" target="_blank">link</a>
 
 ## Available Scripts
 
