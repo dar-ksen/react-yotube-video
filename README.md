@@ -1,6 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project for training with youtube Api
+The project works with React classes. Uses axios libraries to connect to youtube api.
+You can watch this project on <a href="https://dar-ksen.github.io/react-yotube-video/" target="_blank">link</a>
 
 ## Available Scripts
 
